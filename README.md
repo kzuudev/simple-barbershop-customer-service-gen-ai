@@ -65,3 +65,7 @@ When the shop page grows past what you want to send in full, that is the point t
 
 # Simple Structure of Barbershop Customer Service
 ![img.png](img.png)
+
+# Sample Output
+
+![img_1.png](img_1.png)
